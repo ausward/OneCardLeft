@@ -52,7 +52,7 @@ OneCardLeft/
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/OneCardLeft.git
+git clone https://github.com/ausward/OneCardLeft.git
 
 # Open the game
 open index.html
